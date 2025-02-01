@@ -1,5 +1,5 @@
 url: "https://mcvmcvmcvmcv.github.io"  # Your GitHub Pages URL
-baseurl: "/website"  # The name of your repository
+baseurl: ""  # temporary making blank
 
 
 collections: 
