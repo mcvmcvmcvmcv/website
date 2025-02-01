@@ -9,23 +9,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4  # Updated to v4
+      - uses: actions/checkout@v4  # Latest version
 
-      - uses: actions/cache@v3  # Latest version as of now
+      - uses: actions/cache@v4  # Updated to v4
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - uses: ruby/setup-ruby@v1  # Latest version as of now
+      - uses: ruby/setup-ruby@v1  # Latest version
         with:
           ruby-version: 3.1
           bundler-cache: true
 
       - run: bundle exec jekyll build
 
-      - uses: actions/upload-pages-artifact@v2  # Latest version as of now
+      - uses: actions/upload-pages-artifact@v4  # Updated to v4
         with:
           path: ./_site
 
@@ -39,4 +39,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/deploy-pages@v2  # Latest version as of now
+      - uses: actions/deploy-pages@v2  # Latest version
