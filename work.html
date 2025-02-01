@@ -1,0 +1,43 @@
+---
+title: Work
+layout: default
+---
+
+
+<h4>Published Writing</h4>    
+	
+    {% for article in site.articles reversed %}
+    <p>
+        <a href="{{article.link}}">{{ article.title }}</a> ({{ article.place }}, {{ article.date | date: "%b %Y" }})
+        {% if article.comment %}
+            <span class="article-desc">{{ article.comment }}</span>
+        {% endif %}
+
+    </p>
+    {% endfor %}        
+
+
+{% include separator.html %}
+
+<h4>Translation (all Japanese to English)</h4>
+
+<p><em>Searching for the Language of a House: Architectural Photography of Koji Taki </em> (House of Architecture, Tokyo, 2020) [Proofreader]</p>
+<p>Catalog essays in <em>Nagashima Yurie: And a Pinch of Irony with a Hint of Love</em> (Tokyo Museum of Photographic Arts, Tokyo, 2017)</p>
+<p><em>Kiyoji Otsuji: Photographs in the Collection
+    of Musashino Art University Museum & Library</em> (Musashino Art
+    University Museum & Library, Tokyo, 2016)</p>
+<p>Akagi Shuji, <em>Fukushima Traces, 2011-2013</em> (Osiris, Tokyo, 2015)</p>
+
+{% include separator.html %}
+
+<h4>Books published</h4>    
+
+<p>Yamamoto Wataru, <em>Drawing a Line</em>, 2012</p>
+<p>Fukuyama Emi, <em>A Trip to Europe</em>, 2011</p>
+
+{% include separator.html %}
+
+<h4>Blog</h4>    
+
+<p><a href="http://blog.mcvmcv.net/">2009-2019</a><br>
+<a href="/crumbs/">Crumbs</a></p>

@@ -1,0 +1,23 @@
+---
+title: Crumbs
+layout: crumbs
+---
+<br>
+<div class="crumbs-container">
+
+    <div class="item-sizer"></div>
+    <div class="gutter-sizer"></div>
+
+    {% for crumb in site.crumbs reversed %}
+    
+        <div class="crumb">
+            {% if crumb.title %}
+            <span class="title">{{ crumb.title }}</span>
+            {% endif %}
+            {{ crumb.content   }}
+        </div>
+
+    {% endfor %}        
+
+</div>
+

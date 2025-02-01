@@ -1,0 +1,9 @@
+---
+title: Nice provocation on area and method by Zeynep Devrim Gürsel
+date: 2022-1-25
+---
+
+Why set African photography against a Euro-American theoretical canon that we thereby reinforce when we now have the benefit of two decades of work on photography in East, Southeast, and South Asia; Australia; Latin America; and the Middle East? **When do we stop treating these “other” photographies as exceptions that challenge the same old rules?** This raises the question: **Why “African” photography? What holds that category together?** Might the Chinese photographers in Mozambique have more in common with Indonesian Chinese photographers than with Nigerians embellishing their clothes digitally? Might these latter individuals have more in common with Australian Aboriginal communities using cell phones to make ancestral connections than with colonial photographers in South Africa? What is the basis of the categories by which we divide up our scholarship and put practices into relation, and how does photography as a mobile and global technology challenge these boundary-making practices? **I’m not suggesting Africa doesn’t matter as place and idea in these photographies, but when and how does it matter, and when are other connections salient?**
+
+From [the discussion on *Ambivalent*](x-devonthink-item://B82FD880-32E0-4105-B0AA-86EE7B125FAE). I have the PDF of the book now 
+

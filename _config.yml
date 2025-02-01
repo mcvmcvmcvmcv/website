@@ -1,0 +1,12 @@
+baseurl: ""
+
+collections: 
+  articles:
+  crumbs:
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image_resize: "300x500"

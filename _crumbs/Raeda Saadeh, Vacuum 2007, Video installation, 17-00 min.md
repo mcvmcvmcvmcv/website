@@ -1,0 +1,9 @@
+---
+title: Raeda Saadeh, Vacuum 2007, Video installation
+date: 2024-1-16
+---
+
+This must be a clip only, the title says there is 10 more minutes.
+
+<p>
+<iframe width="300" src="https://www.youtube.com/embed/57YZ5vhvxnI?si=X72H39XDqc7_XyKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
