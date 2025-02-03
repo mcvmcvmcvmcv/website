@@ -44,6 +44,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+        # Step suggested by ChatGPT to check permissions
+      - name: Fix file permissions
+        run: chmod -R 755 assets/images
+
           # Debugging step to list files
       - name: List files for debugging
         run: |

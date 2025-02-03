@@ -1,5 +1,5 @@
 url: "https://mcvmcvmcvmcv.github.io"  # Your GitHub Pages URL
-baseurl: ""  # temporary making blank
+baseurl: ""  # temporary making blank -- also this fixes an issue with the image-resize plugin it seems
 
 
 collections: 
