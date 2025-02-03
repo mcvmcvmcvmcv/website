@@ -50,7 +50,7 @@ jobs:
 
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --trace --config _config.yml --baseurl ""
+        run: bundle exec jekyll build --trace --config _config.yml 
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
@@ -68,3 +68,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          target_branch: gh-pages  # This is where you specify the target branch for deployment
