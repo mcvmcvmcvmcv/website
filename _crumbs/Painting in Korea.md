@@ -1,8 +1,8 @@
 ---
 title: Painting in Korea
 date: 2024-1-5
-image_path: assets/images/dog-rabbit.jpg
-img2: assets/images/realism.jpg
+image_path: /assets/images/dog-rabbit.jpg
+img2: /assets/images/realism.jpg
 layout: crumbs
 ---
 
