@@ -48,12 +48,6 @@ jobs:
       - name: Fix file permissions
         run: chmod -R 755 assets/images
 
-          # Debugging step to list files
-      - name: List files for debugging
-        run: |
-          ls -R /home/runner/work/website/website/
-
-
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --trace --config _config.yml --baseurl ""
