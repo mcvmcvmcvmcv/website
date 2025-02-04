@@ -1,5 +1,5 @@
-url: "https://mcvmcvmcvmcv.github.io/website"  # Your GitHub Pages URL
-baseurl: "" 
+url: "https://mcvmcvmcvmcv.github.io"  # Your GitHub Pages URL
+baseurl: "/website" 
 
 
 collections: 

@@ -8,7 +8,9 @@ layout: crumbs
 
 Detail of a kind of strange painting I saw in Seoul. Laughed out loud in the gallery:
 
-<img src="{{ site.baseurl }}{{ page.image_path | relative_url | resize: page.image_resize }}" alt="Text" />
+
+
+<img src="{{ '/assets/images/dog-rabbit.jpg' | relative_url | resize: page.image_resize }}" alt="Text" />
 
 And this very nice one by Choi Gene-uk / 최진욱, the realism guy:
 
