@@ -14,4 +14,4 @@ Detail of a kind of strange painting I saw in Seoul. Laughed out loud in the gal
 
 And this very nice one by Choi Gene-uk / 최진욱, the realism guy:
 
-<img src="{{ site.baseurl }}{{ page.img2 | relative_url | resize: page.image_resize }}" alt="Text" />
+<img src="{{ page.img2 | resize: page.image_resize }}" alt="Text" />
