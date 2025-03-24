@@ -12,7 +12,7 @@ layout: crumbs-page
     
         <div class="crumb">
             {% if crumb.title %}
-            <a href="{{ crumb.url }}"><span class="title">{{ crumb.title }}</span></a>
+            <a class="title" href="{{ crumb.url }}"><span>{{ crumb.title }}</span></a>
             {% endif %}
             {{ crumb.content   }}
         </div>

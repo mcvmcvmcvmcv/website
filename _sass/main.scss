@@ -21,6 +21,10 @@ a {
 	color: black;
 }
 
+body.crumbs-page a.title {
+  text-decoration: none;
+}
+
 .current {
   cursor: default;
   pointer-events: none;        
