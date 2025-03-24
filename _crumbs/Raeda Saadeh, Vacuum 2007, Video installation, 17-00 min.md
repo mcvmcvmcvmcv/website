@@ -1,6 +1,7 @@
 ---
 title: Raeda Saadeh, Vacuum 2007, Video installation
 date: 2024-1-16
+layout: crumbs
 ---
 
 This must be a clip only, the title says there is 10 more minutes.

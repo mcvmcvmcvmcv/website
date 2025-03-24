@@ -1,6 +1,7 @@
 ---
 title: Good note on position
 date: 2024-11-05
+layout: crumbs
 ---
 
 Via Ahmed, p 12. Link to 'positionality,' perhaps?

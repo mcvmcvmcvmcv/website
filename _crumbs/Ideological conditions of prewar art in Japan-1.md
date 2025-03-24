@@ -1,6 +1,7 @@
 ---
 title: Ideological conditions of prewar art in Japan
 date: 2023-11-25
+layout: crumbs
 ---
 
 

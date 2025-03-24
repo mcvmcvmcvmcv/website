@@ -1,6 +1,7 @@
 ---
 title: Perspectivism. Eduardo Viveiros de Castro
 date: 2023-11-20
+layout: crumbs
 ---
 
 

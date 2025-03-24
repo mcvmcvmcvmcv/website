@@ -1,6 +1,7 @@
 ---
 title: "First Winds of Ryukyu"
-date: 2024-08-25
+date: 2024-8-25
+layout: crumbs
 ---
 
 Very early movie made by Yanagi Soetsu, part of some kind of mingei thing I guess. Okinawa. 

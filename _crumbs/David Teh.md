@@ -1,6 +1,7 @@
 ---
 title: David Teh
 date: 2024-1-8
+layout: crumbs
 ---
 
 I really like the way he deals with the critique of Rirkrit Tiravanija’s work in terms of being “Thai,” when in his case that category is barely meaningful. Teh is dealing very handily with the pressures of the contemporary art market and museum structure for artists to be easily identifiable by nationality, especially when they come from South or Southeast Asia. 

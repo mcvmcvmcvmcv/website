@@ -1,6 +1,8 @@
 ---
 title: "Tracing the Lineage of Japanese Straight Photography from the Late 1960s into the 70s"
 date: 2024-1-12
+layout: crumbs
+
 ---
 
 The title of a show at MEM featuring Tokuko Ushioda, Shigeo Gocho, Yoshitaka Saji, Masao Sekiguchi, Kazuto Miura. Maybe apart from my essay on Otsuji, this is one of the few times that the term "straight photography" has appeared in the public sphere of photography discourse in Japan? 

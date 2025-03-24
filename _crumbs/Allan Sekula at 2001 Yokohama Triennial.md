@@ -1,6 +1,7 @@
 ---
 title: Allan Sekula at 2001 Yokohama Triennial
 date: 2023-11-28
+layout: crumbs
 ---
 
 [Asada Akira wrote this very nice review of the show here](http://www.kojinkaratani.com/criticalspace/old/special/asada/010901.html), includes an interesting tidbit that Sekula lined up the Kanikosen next to this right-wing manga from the 1990s called "On War" (小林よしのりの『戦争論』) which itself seems like a very interesting phenomenon.

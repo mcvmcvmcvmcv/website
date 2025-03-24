@@ -1,8 +1,8 @@
 body { max-width: 450px; background-color: #daecf0; padding: 10px 10px 0px 10px; font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.2em; }
 
-body.crumbs { max-width: 100%; }
+body.crumbs-page { max-width: 100%; }
 
-body.crumbs, body.bsq { background-color: #eef0da; }
+body.crumbs, body.crumbs-page, body.bsq { background-color: #eef0da; }
 
 a { color: black; }
 

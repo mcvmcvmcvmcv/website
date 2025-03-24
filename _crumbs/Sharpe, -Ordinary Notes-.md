@@ -1,6 +1,7 @@
 ---
 title: Sharpe, <em>Ordinary Notes</em>
 date: 2024-2-20
+layout: crumbs
 ---
 
 Note 73

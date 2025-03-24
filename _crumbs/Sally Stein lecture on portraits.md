@@ -1,6 +1,7 @@
 ---
 title: Sally Stein lecture on portraits
 date: 2024-6-20
+layout: crumbs
 ---
 
 Susan Meiselas in Nicaragua, 1978 \("Arlen Siu\: A Portrait"\) — this image is carried through the streets! super important! it has a function for the _movement_  

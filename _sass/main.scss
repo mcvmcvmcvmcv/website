@@ -7,11 +7,12 @@ body {
   line-height: 1.2em;
 }
 
-body.crumbs {
+body.crumbs-page {
   max-width: 100%;
 }
 
 body.crumbs,
+body.crumbs-page,
 body.bsq {
   background-color: #eef0da;
 }

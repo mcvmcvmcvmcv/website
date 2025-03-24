@@ -1,6 +1,7 @@
 ---
 title: Poet masaoka shiki 正岡子規 and media theory
-date: 2024-09-25
+date: 2024-9-25
+layout: crumbs
 ---
 
 This is from SXXXXXXX-san, talking to him in Beppu. In his later years, Shiki was bedridden with TB, and when the technology of glass changed so that it was more flat, he was able to see the plants outside of his window more clearly. So, there is a relation between glass and media theory... 
