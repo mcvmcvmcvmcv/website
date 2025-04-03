@@ -7,6 +7,6 @@ layout: crumbs
 >
 > […]
 >
-> There is one thing we can be sure of\: a lingua franca \(humanistic French, Anglo-American sabir, or Esperanto code\) is always ==apoetical==. 112  
+> There is one thing we can be sure of\: a lingua franca \(humanistic French, Anglo-American sabir, or Esperanto code\) is always apoetical. 112  
 
 Some connection here to the paper I wrote years ago on late Nakahira, about prose poetry, and so on. 
