@@ -1,5 +1,5 @@
 ---
-title: Ikebana study 1
+title: Ohara painting
 date: 2025-4-22
 image_path: /assets/images/ohara.jpg
 layout: crumbs
