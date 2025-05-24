@@ -1,5 +1,5 @@
 ---
-title: Balla's "Futurist Suit"
+title: Balla's "Futurist Suit," 1914
 date: 2025-5-14
 image_path: /assets/images/balla.png
 layout: crumbs
