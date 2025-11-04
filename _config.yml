@@ -3,6 +3,7 @@ baseurl: ""
 
 
 collections: 
+  books:
   articles:
   crumbs:
     output: true

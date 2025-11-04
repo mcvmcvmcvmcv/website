@@ -3,6 +3,17 @@ title: Work
 layout: default
 ---
 
+<h4>Book Projects</h4>    
+
+    {% for book in site.books reversed %}
+    <p>
+        <a href="{{book.link}}">{{ book.title }}</a> ({{ book.place }}, {{ book.date | date: "%Y" }})
+        {% if book.comment %}
+            <span class="article-desc">{{ book.comment }}</span>
+        {% endif %}
+
+    </p>
+    {% endfor %}   
 
 <h4>Published Writing</h4>    
 	
