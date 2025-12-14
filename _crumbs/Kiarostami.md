@@ -7,4 +7,4 @@ layout: crumbs
 
 <img src="{{ page.image_path | resize: page.image_resize }}" alt="A flower pressed into the pages of a workbook. The subtitle reads 'Good work.'" />
 
-From *Where Is My Friend's House?*
+From *Where Is the Friend's House?*, 1987
