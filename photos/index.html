@@ -1,0 +1,16 @@
+---
+title: Photos
+layout: photos-page
+---
+
+{% for photo in site.photos reversed %}
+    
+        <div class="photo">
+            {% if photo.name %}
+            <span>{{ photo.name }}</span></a>
+            {% endif %}
+            {{ photo.content   }}
+        </div>
+
+    {% endfor %}        
+

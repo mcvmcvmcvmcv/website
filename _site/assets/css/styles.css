@@ -4,6 +4,8 @@ body.crumbs-page { max-width: 100%; }
 
 body.crumbs, body.crumbs-page, body.bsq { background-color: #eef0da; }
 
+body.photos-page { background-color: #d0d5cf; }
+
 a { color: black; }
 
 body.crumbs-page a.title { text-decoration: none; }

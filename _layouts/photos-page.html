@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+   
+    {% include header-stuff.html %}
+
+
+    <title>{{ page.title }}</title>
+    
+  </head>
+  <body class="photos-page">
+    
+
+    <div class="content">
+    
+      <a href="{{ 'index.html' | relative_url }} ">Home</a><br>
+      
+      {{ content }}
+    
+    </div>
+  </body>
+</html>

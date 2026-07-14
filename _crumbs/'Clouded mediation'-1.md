@@ -1,5 +1,5 @@
 ---
-title: "Clouded mediation"
+title: “Clouded mediation”
 date: 2026-4-3
 layout: crumbs
 ---
