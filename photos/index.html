@@ -2,12 +2,12 @@
 title: Photos
 layout: photos-page
 ---
-
+<br>
 {% for photo in site.photos reversed %}
     
         <div class="photo">
             {% if photo.name %}
-            <span>{{ photo.name }}</span></a>
+            <span class="title">{{ photo.name }}</span></a>
             {% endif %}
             {{ photo.content   }}
         </div>
