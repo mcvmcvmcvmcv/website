@@ -15,5 +15,8 @@ defaults:
     scope:
       path: ""
     values:
-      image_resize: "300x500"
-      photos_resize: "600x600"
+      image_resize: "600x1000"
+      image_container: "300px"
+      photos_resize: "1200x1200"
+      photos_container_p: "400px"
+      photos_container_l: "600px"

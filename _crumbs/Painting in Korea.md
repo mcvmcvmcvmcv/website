@@ -10,8 +10,8 @@ Detail of a kind of strange painting I saw in Seoul. Laughed out loud in the gal
 
 
 
-<img src="{{ page.image_path | resize: page.image_resize }}" alt="Text" />
+<img width="{{ page.image_container }}" src="{{ page.image_path | resize: page.image_resize }}" alt="Text" />
 
 And this very nice one by Choi Gene-uk / 최진욱, the realism guy:
 
-<img src="{{ page.img2 | resize: page.image_resize }}" alt="Text" />
+<img width="{{ page.image_container }}" src="{{ page.img2 | resize: page.image_resize }}" alt="Text" />
