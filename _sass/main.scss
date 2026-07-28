@@ -7,9 +7,12 @@ body {
   line-height: 1.2em;
 }
 
-body.crumbs-page,
-body.photos-page {
+body.crumbs-page {
   max-width: 100%;
+}
+
+body.photos-page {
+  max-width: 1400px;
 }
 
 body.crumbs,
