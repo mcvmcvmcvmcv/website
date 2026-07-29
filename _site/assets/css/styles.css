@@ -2,8 +2,6 @@ body { max-width: 450px; background-color: #daecf0; padding: 10px 10px 0px 10px;
 
 body.crumbs-page { max-width: 100%; }
 
-body.photos-page { max-width: 1000px; padding: 10px 25px 0px 10px; }
-
 body.crumbs, body.crumbs-page, body.bsq { background-color: #eef0da; }
 
 body.photos-page { background-color: #d0d5cf; }
@@ -27,6 +25,8 @@ body.crumbs-page a.title { text-decoration: none; }
 .crumb { float: left; width: 300px; margin-bottom: 30px; }
 
 .photo img { max-width: 100%; height: auto; }
+
+@media (max-width: 600px) { .photo img.portrait { width: 75%; max-width: 75%; } }
 
 .title { font-size: 140%; }
 

@@ -1,6 +1,7 @@
 <a href="{{ page.image_path }}">
     <img src="{{ page.image_path | resize: page.photos_resize }}" 
-    width="{%- if page.orientation == "l" -%}
+    class="{%- if page.orientation == 'l' -%}landscape{% else %}portrait{%- endif -%}"
+    width="{%- if page.orientation == 'l' -%}
 {{page.photos_container_l}}
 {%- else -%}
 {{page.photos_container_p}}
