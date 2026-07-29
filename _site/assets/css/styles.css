@@ -1,10 +1,8 @@
-* { outline: 1px solid red; }
-
 body { max-width: 450px; background-color: #daecf0; padding: 10px 10px 0px 10px; font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.2em; }
 
 body.crumbs-page { max-width: 100%; }
 
-body.photos-page { max-width: 1000px; }
+body.photos-page { max-width: 1000px; padding: 10px 25px 0px 10px; }
 
 body.crumbs, body.crumbs-page, body.bsq { background-color: #eef0da; }
 
