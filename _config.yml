@@ -18,5 +18,5 @@ defaults:
       image_resize: "600x1000"
       image_container: "300px"
       photos_resize: "1200x1200"
-      photos_container_p: "400px"
-      photos_container_l: "600px"
+      photos_container_p: 400
+      photos_container_l: 600

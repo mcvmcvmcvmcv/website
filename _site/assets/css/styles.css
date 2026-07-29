@@ -1,6 +1,8 @@
 body { max-width: 450px; background-color: #daecf0; padding: 10px 10px 0px 10px; font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.2em; }
 
-body.crumbs-page, body.photos-page { max-width: 100%; }
+body.crumbs-page { max-width: 100%; }
+
+body.photos-page { max-width: 1000px; }
 
 body.crumbs, body.crumbs-page, body.bsq { background-color: #eef0da; }
 
@@ -23,6 +25,8 @@ body.crumbs-page a.title { text-decoration: none; }
 .crumbs-container:after { content: ''; display: block; clear: both; }
 
 .crumb { float: left; width: 300px; margin-bottom: 30px; }
+
+.photo img { max-width: 100%; height: auto; }
 
 .title { font-size: 140%; }
 
